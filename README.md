@@ -1,6 +1,6 @@
-Das ist unser README File
+# Schnitzeljagd
 
 
-#Planung
+## Planung
 Die Planung hielten wir auf Github fest
 https://miro.com/app/board/uXjVNqGMsRs=/
